@@ -1,0 +1,10 @@
+C:\Users\jesus\source\repos\situacion\situacion\bin\Debug\situacion.exe.config
+C:\Users\jesus\source\repos\situacion\situacion\bin\Debug\situacion.exe
+C:\Users\jesus\source\repos\situacion\situacion\bin\Debug\situacion.pdb
+C:\Users\jesus\source\repos\situacion\situacion\obj\Debug\situacion.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\situacion\situacion\obj\Debug\situacion.Form1.resources
+C:\Users\jesus\source\repos\situacion\situacion\obj\Debug\situacion.Properties.Resources.resources
+C:\Users\jesus\source\repos\situacion\situacion\obj\Debug\situacion.csproj.GenerateResource.cache
+C:\Users\jesus\source\repos\situacion\situacion\obj\Debug\situacion.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\situacion\situacion\obj\Debug\situacion.exe
+C:\Users\jesus\source\repos\situacion\situacion\obj\Debug\situacion.pdb

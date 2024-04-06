@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <Producto>aa</Producto>
+    <Cantidad>2</Cantidad>
+  </Table1>
+  <Table1>
+    <Producto>aab</Producto>
+    <Cantidad>6</Cantidad>
+  </Table1>
+</NewDataSet>
